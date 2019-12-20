@@ -1,0 +1,246 @@
+(EditorGUIUtility.s_IconGUIContents)
+[AvatarInspector/BodySIlhouette]
+image = BodySilhouette
+
+[AvatarInspector/LeftFeetIk]
+image = LeftFeetIk
+
+[BuildSettings.N3DS.Small]
+image = BuildSettings.N3DS.Small
+
+[AvatarInspector/RightFeetIk]
+image = RightFeetIk
+
+[LockIconClick to lock the rotation in the current direction.]
+image = LockIcon
+tooltip = Click to lock the rotation in the current direction.
+
+[ViewToolMove OnHand Tool]
+image = d_ViewToolMove On
+tooltip = Hand Tool
+
+[BuildSettings.Android.Small]
+image = d_BuildSettings.Android.Small
+
+[WaitSpin00]
+image = d_WaitSpin00
+
+[BuildSettings.WebGL.Small]
+image = d_BuildSettings.WebGL.Small
+
+[WaitSpin02]
+image = d_WaitSpin02
+
+[WaitSpin03]
+image = d_WaitSpin03
+
+[WaitSpin04]
+image = d_WaitSpin04
+
+[WaitSpin05]
+image = d_WaitSpin05
+
+[WaitSpin06]
+image = d_WaitSpin06
+
+[WaitSpin07]
+image = d_WaitSpin07
+
+[WaitSpin08]
+image = d_WaitSpin08
+
+[WaitSpin09]
+image = d_WaitSpin09
+
+[ViewToolOrbitOrbit the Scene view.]
+image = d_ViewToolOrbit
+tooltip = Orbit the Scene view.
+
+[AvatarInspector/LeftLeg]
+image = LeftLeg
+
+[BuildSettings.iPhone.Small]
+image = d_BuildSettings.iPhone.Small
+
+[AvatarInspector/LeftFingers]
+image = LeftFingers
+
+[AvatarInspector/Torso]
+image = Torso
+
+[BuildSettings.Standalone.Small]
+image = d_BuildSettings.Standalone.Small
+
+[RotateTool On]
+image = d_RotateTool On
+
+[AvatarInspector/Head]
+image = Head
+
+[RectTool On]
+image = d_RectTool On
+
+[ScaleToolScale Tool]
+image = d_ScaleTool
+tooltip = Scale Tool
+
+[SceneviewAudioToggle audio on or off.]
+image = d_SceneViewAudio
+tooltip = Toggle audio on or off.
+
+[AvatarInspector/RightArm]
+image = RightArm
+
+[ViewToolMoveHand Tool]
+image = d_ViewToolMove
+tooltip = Hand Tool
+
+[BuildSettings.PSP2.Small]
+image = d_BuildSettings.PSP2.Small
+
+[WaitSpin10]
+image = d_WaitSpin10
+
+[WaitSpin11]
+image = d_WaitSpin11
+
+[AvatarInspector/LeftArm]
+image = LeftArm
+
+[ViewToolOrbitHand Tool]
+image = d_ViewToolOrbit
+tooltip = Hand Tool
+
+[AvatarInspector/BodyPartPicker]
+image = BodyPartPicker
+
+[PlayButtonProfileProfiler Play]
+image = d_PlayButtonProfile
+tooltip = Profiler Play
+
+[BuildSettings.Tizen.Small]
+image = d_BuildSettings.Tizen.Small
+
+[BuildSettings.Facebook.Small]
+image = BuildSettings.Facebook.Small
+
+[RectToolRect Tool]
+image = d_RectTool
+tooltip = Rect Tool
+
+[TransformToolMove, Rotate or Scale selected objects.]
+image = d_TransformTool
+tooltip = Move, Rotate or Scale selected objects.
+
+[ViewToolZoom OnHand Tool]
+image = d_ViewToolZoom On
+tooltip = Hand Tool
+
+[BuildSettings.Switch.Small]
+image = BuildSettings.Switch.Small
+
+[MoveTool On]
+image = d_MoveTool on
+tooltip = Move Tool
+
+[BuildSettings.tvOS.Small]
+image = d_BuildSettings.tvOS.Small
+
+[renderdocCapture the current view and open in RenderDoc.]
+image = d_renderdoc
+tooltip = Capture the current view and open in RenderDoc.
+
+[BuildSettings.SelectedIcon]
+image = d_BuildSettings.SelectedIcon
+
+[PauseButton On]
+image = d_PauseButton On
+
+[ViewToolOrbit On]
+image = d_ViewToolOrbit On
+
+[WaitSpin01]
+image = d_WaitSpin01
+
+[PauseButtonPause]
+image = d_PauseButton
+tooltip = Pause
+
+[BuildSettings.XboxOne.Small]
+image = d_BuildSettings.XboxOne.Small
+
+[ViewToolOrbit OnHand Tool]
+image = d_ViewToolOrbit On
+tooltip = Hand Tool
+
+[AvatarInspector/RightLeg]
+image = RightLeg
+
+[PlayButtonPlay]
+image = d_PlayButton
+tooltip = Play
+
+[ScaleTool On]
+image = d_ScaleTool On
+
+[StepButton On]
+image = d_StepButton On
+
+[RotateToolRotate Tool]
+image = d_RotateTool
+tooltip = Rotate Tool
+
+[PlayButtonProfile On]
+image = d_PlayButtonProfile On
+
+[SceneviewFxToggle skybox, fog, and various other effects.]
+image = d_SceneViewFx
+tooltip = Toggle skybox, fog, and various other effects.
+
+[AvatarInspector/MaskEditor_Root]
+image = MaskEditor_Root
+
+[BuildSettings.Metro.Small]
+image = BuildSettings.Metro.Small
+
+[AvatarInspector/RightFingersIk]
+image = RightFingersIk
+
+[ViewToolZoomHand Tool]
+image = d_ViewToolZoom
+tooltip = Hand Tool
+
+[AvatarInspector/RightFingers]
+image = RightFingers
+
+[BuildSettings.PS4.Small]
+image = d_BuildSettings.PS4.Small
+
+[LockIcon-OnClick to unlock the rotation.]
+image = LockIcon-On
+tooltip = Click to unlock the rotation.
+
+[AvatarInspector/LeftFingersIk]
+image = LeftFingersIk
+
+[MoveToolMove Tool]
+image = d_MoveTool
+tooltip = Move Tool
+
+[CloudConnect]
+image = d_CloudConnect
+
+[StepButtonStep]
+image = d_StepButton
+tooltip = Step
+
+[PlayButton On]
+image = d_PlayButton On
+
+[TransformTool On]
+image = d_TransformTool On
+
+[SceneviewLightingWhen toggled on, the Scene lighting is used. When toggled off, a light attached to the Scene view camera is used.]
+image = d_SceneViewLighting
+tooltip = When toggled on, the Scene lighting is used. When toggled off, a light attached to the Scene view camera is used.
+

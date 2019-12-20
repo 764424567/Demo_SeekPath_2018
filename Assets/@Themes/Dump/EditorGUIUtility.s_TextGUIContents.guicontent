@@ -1,0 +1,146 @@
+(EditorGUIUtility.s_TextGUIContents)
+[]
+
+[Your license does not cover iOS Publishing.]
+text = Your license does not cover iOS Publishing.
+
+[Your license does not cover Apple TV Publishing.]
+text = Your license does not cover Apple TV Publishing.
+
+[Facebook|BuildSettings.Facebook]
+text = Facebook
+image = BuildSettings.Facebook
+
+[Xbox One|BuildSettings.XboxOne]
+text = Xbox One
+image = d_BuildSettings.XboxOne
+
+[Your license does not cover Universal Windows Platform Publishing.]
+text = Your license does not cover Universal Windows Platform Publishing.
+
+[Your license does not cover Standalone Publishing.]
+text = Your license does not cover Standalone Publishing.
+
+[English]
+text = English
+
+[tvOS|BuildSettings.tvOS]
+text = tvOS
+image = d_BuildSettings.tvOS
+
+[Your license does not cover Android Publishing.]
+text = Your license does not cover Android Publishing.
+
+[iOS|BuildSettings.iPhone]
+text = iOS
+image = d_BuildSettings.iPhone
+
+[Nintendo Switch|BuildSettings.Switch]
+text = Nintendo Switch
+image = BuildSettings.Switch
+
+[Tizen|BuildSettings.Tizen]
+text = Tizen
+image = d_BuildSettings.Tizen
+
+[Universal Windows Platform|BuildSettings.Metro]
+text = Universal Windows Platform
+image = BuildSettings.Metro
+
+[Your license does not cover Nintendo Switch Publishing]
+text = Your license does not cover Nintendo Switch Publishing
+
+[Your license does not cover Tizen Publishing.]
+text = Your license does not cover Tizen Publishing.
+
+[Lock]
+text = Lock
+
+[Display 6]
+text = Display 6
+
+[Display 7]
+text = Display 7
+
+[Display 8]
+text = Display 8
+
+[Shaded]
+text = Shaded
+tooltip = The Draw Mode used to display the Scene.
+
+[PS4|BuildSettings.PS4]
+text = PS4
+image = d_BuildSettings.PS4
+
+[Your license does not cover Xbox One Publishing. Please see the Xbox One section of the Platform Module Installation documentation for more details.]
+text = Your license does not cover Xbox One Publishing. Please see the Xbox One section of the Platform Module Installation documentation for more details.
+
+[Your license does not cover PS Vita Publishing. Please see the PS Vita section of the Platform Module Installation documentation for more details.]
+text = Your license does not cover PS Vita Publishing. Please see the PS Vita section of the Platform Module Installation documentation for more details.
+
+[Your license does not cover Windows Phone 8 Publishing.]
+text = Your license does not cover Windows Phone 8 Publishing.
+
+[H]
+text = H
+
+[PC, Mac & Linux Standalone|BuildSettings.Standalone]
+text = PC, Mac & Linux Standalone
+image = d_BuildSettings.Standalone
+
+[Default ( English )]
+text = Default ( English )
+
+[Your license does not cover Nintendo 3DS Publishing]
+text = Your license does not cover Nintendo 3DS Publishing
+
+[WebGL|BuildSettings.WebGL]
+text = WebGL
+image = d_BuildSettings.WebGL
+
+[Nintendo 3DS|BuildSettings.N3DS]
+text = Nintendo 3DS
+image = BuildSettings.N3DS
+
+[Display 1]
+text = Display 1
+
+[Display 2]
+text = Display 2
+
+[Display 3]
+text = Display 3
+
+[Display 4]
+text = Display 4
+
+[Display 5]
+text = Display 5
+
+[X]
+text = X
+
+[Y]
+text = Y
+
+[Z]
+text = Z
+
+[W]
+text = W
+
+[Your license does not cover Facebook Publishing]
+text = Your license does not cover Facebook Publishing
+
+[Android|BuildSettings.Android]
+text = Android
+image = d_BuildSettings.Android
+
+[PS Vita|BuildSettings.PSP2]
+text = PS Vita
+image = d_BuildSettings.PSP2
+
+[Your license does not cover PS4 Publishing. Please see the PS4 section of the Platform Module Installation documentation for more details.]
+text = Your license does not cover PS4 Publishing. Please see the PS4 section of the Platform Module Installation documentation for more details.
+
